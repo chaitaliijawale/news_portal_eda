@@ -49,12 +49,12 @@ import seaborn as sns
 ### Exploratory Data Analysis - Step by step approach
 
 Typical Data exploration activity consists of the following steps:
-1.	Importing Data
-2.	Variable Identification
+1.  Importing Data
+2.  Variable Identification
 3.  Variable Transformation/Feature Creation
 4.  Missing value detection
-5.	Univariate Analysis
-6.	Bivariate Analysis
+5.  Univariate Analysis
+6.  Bivariate Analysis
 
 ### Reading the Data into a DataFrame
 
@@ -568,7 +568,7 @@ histogram_boxplot(df["time_spent_on_the_page"])
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -605,7 +605,7 @@ perc_on_bar(ax,df["group"])
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -622,7 +622,7 @@ perc_on_bar(ax,df["landing_page"])
 
 
     
-![png](output_44_0.png)
+![png](images/output_44_0.png)
     
 
 
@@ -639,7 +639,7 @@ perc_on_bar(ax,df["converted"])
 
 
     
-![png](output_47_0.png)
+![png](images/output_47_0.png)
     
 
 
@@ -657,7 +657,7 @@ perc_on_bar(ax,df["language_preferred"])
 
 
     
-![png](output_50_0.png)
+![png](images/output_50_0.png)
     
 
 
@@ -676,7 +676,7 @@ plt.show()
 
 
     
-![png](output_54_0.png)
+![png](images/output_54_0.png)
     
 
 
@@ -693,7 +693,7 @@ plt.show()
 
 
     
-![png](output_57_0.png)
+![png](images/output_57_0.png)
     
 
 
@@ -710,7 +710,7 @@ plt.show()
 
 
     
-![png](output_60_0.png)
+![png](images/output_60_0.png)
     
 
 
@@ -730,7 +730,7 @@ plt.show()
 
 
     
-![png](output_63_0.png)
+![png](images/output_63_0.png)
     
 
 
@@ -828,7 +828,7 @@ plt.show()
 
 
     
-![png](output_83_0.png)
+![png](images/output_83_0.png)
     
 
 
@@ -930,7 +930,7 @@ plt.show()
 
 
     
-![png](output_101_0.png)
+![png](images/output_101_0.png)
     
 
 
@@ -1057,7 +1057,7 @@ plt.show()
 
 
     
-![png](output_118_0.png)
+![png](images/output_118_0.png)
     
 
 
